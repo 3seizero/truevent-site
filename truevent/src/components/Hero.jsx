@@ -1,13 +1,14 @@
 import { Link } from 'react-router-dom'
+import { asset } from '../config'
 
 export default function Hero() {
   return (
     <section id="hero">
       <div className="hero-bg">
         <div className="hero-fallback"></div>
-        <video autoPlay muted loop playsInline poster="/assets/img/hero-fallback.png">
-          <source src="/assets/video/hero-desktop.mp4" media="(min-width: 769px)" type="video/mp4"/>
-          <source src="/assets/video/hero-mobile.mp4" type="video/mp4"/>
+        <video autoPlay muted loop playsInline poster={asset('assets/img/hero-fallback.png')}>
+          <source src={asset('assets/video/hero-desktop.mp4')} media="(min-width: 769px)" type="video/mp4"/>
+          <source src={asset('assets/video/hero-mobile.mp4')} type="video/mp4"/>
         </video>
         <div className="hero-overlay"></div>
       </div>

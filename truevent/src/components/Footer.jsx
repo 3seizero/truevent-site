@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import { asset } from '../config'
 
 const AppStoreIcon = () => (
   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
@@ -24,7 +25,7 @@ export default function Footer() {
     <footer>
       <div className="footer-grid">
         <div>
-          <img src="/assets/img/logo.png" alt="TRUE" style={{height:'36px',width:'auto',marginBottom:'8px'}}/>
+          <img src={asset('assets/img/logo.png')} alt="TRUE" style={{height:'36px',width:'auto',marginBottom:'8px'}}/>
           <div className="f-tag">YOU CAN'T TELL THE STORIES YOU DON'T LIVE.<br/>CURATED LUXURY TRAVEL EVENTS — ITALY & BEYOND.</div>
           <div style={{display:'flex',gap:'10px',flexWrap:'wrap',alignItems:'center',marginTop:'4px'}}>
             <a href="https://www.instagram.com/truevnt" target="_blank" rel="noreferrer" className="btn btn-wht" style={{display:'inline-flex',fontSize:'9px',gap:'6px'}}>

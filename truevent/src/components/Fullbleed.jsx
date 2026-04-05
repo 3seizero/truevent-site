@@ -1,9 +1,10 @@
 import { Link } from 'react-router-dom'
+import { asset } from '../config'
 
 export default function Fullbleed() {
   return (
     <div className="fullbleed">
-      <div className="fb-img"><img src="/assets/img/fullbleed-event.jpg" alt="TRUE Event" loading="lazy"/></div>
+      <div className="fb-img"><img src={asset('assets/img/fullbleed-event.jpg')} alt="TRUE Event" loading="lazy"/></div>
       <div className="fb-ov"></div>
       <div className="fb-content">
         <div className="label rv" style={{marginBottom:'20px'}}>Be Part of TRUE</div>
