@@ -1,9 +1,9 @@
 import { Link } from 'react-router-dom'
 
 const DAYS = [
-  { n: 'Day 1', date: 'Arrival Day', desc: 'CHECK-IN AND WELCOME. ICEBREAKER EVENING: AN INFORMAL FIRST GATHERING TO MEET FELLOW PARTICIPANTS OVER FOOD, WINE AND THE SPIRIT OF THE DESTINATION.' },
-  { n: 'Day 2', date: 'First Networking Day', desc: 'FULL DAY OF SCHEDULED ONE-TO-ONE B2B APPOINTMENTS BETWEEN EXHIBITORS AND BUYERS. FIRST OFFICIAL EVENING EVENT HOSTED IN AN ICONIC DESTINATION VENUE.', delay: 'd1' },
-  { n: 'Day 3', date: 'Second Networking Day', desc: 'SECOND DAY OF CURATED B2B APPOINTMENTS. AFTERNOON DESTINATION EXPERIENCE. CLOSING GALA EVENING WITH NETWORKING COCKTAIL AND DINNER.', delay: 'd2' },
+  { n: 'Day 1', date: 'Arrival Day, Icebreaker and Opening Party', desc: 'CHECK-IN AND WELCOME. ICEBREAKER EVENING: AN INFORMAL FIRST GATHERING TO MEET FELLOW PARTICIPANTS OVER FOOD, WINE AND THE SPIRIT OF THE DESTINATION.' },
+  { n: 'Day 2', date: 'Networking Day and Destination Party', desc: 'FULL DAY OF SCHEDULED ONE-TO-ONE B2B APPOINTMENTS BETWEEN EXHIBITORS AND BUYERS. FIRST OFFICIAL EVENING EVENT HOSTED IN AN ICONIC DESTINATION VENUE.', delay: 'd1' },
+  { n: 'Day 3', date: 'Networking Day and Closing Party', desc: 'SECOND DAY OF CURATED B2B APPOINTMENTS. AFTERNOON DESTINATION EXPERIENCE. CLOSING GALA EVENING WITH NETWORKING COCKTAIL AND DINNER.', delay: 'd2' },
   { n: 'Day 4', date: 'Departure Day', desc: 'FAREWELL BREAKFAST. CHECK-OUT AND DEPARTURE. OPTIONAL DESTINATION EXTENSION AVAILABLE ON REQUEST FOR THOSE WHO WISH TO STAY AND EXPLORE.', delay: 'd3' },
 ]
 
@@ -15,9 +15,9 @@ export default function Program() {
       <div className="prog-grid">
         <div>
           <div className="prog-stats">
-            <div className="rv d1"><div className="ps-n">4</div><div className="ps-l">Event Days</div></div>
-            <div className="rv d2"><div className="ps-n">2</div><div className="ps-l">Networking Days</div></div>
-            <div className="rv d3"><div className="ps-n">3</div><div className="ps-l">Evening Parties</div></div>
+            <div className="rv d1"><div className="ps-n">4</div><div className="ps-l">Days</div></div>
+            <div className="rv d2"><div className="ps-n">2</div><div className="ps-l">B2B Days</div></div>
+            <div className="rv d3"><div className="ps-n">3</div><div className="ps-l">Dinner Parties</div></div>
           </div>
           <p className="body rv d2" style={{marginBottom:'32px'}}>
             EACH TRUE EDITION IS A CURATED FOUR-DAY EXPERIENCE. BUYERS AND EXHIBITORS MEET
