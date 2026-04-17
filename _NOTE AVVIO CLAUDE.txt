@@ -1,0 +1,15 @@
+ Per riprendere il progetto:                                                                                                                                 
+  1. Avvia Claude Code nella cartella /Users/cipertre/.../Restyling-2026/                                                                                     
+  2. Il file CLAUDE.md viene caricato automaticamente → Claude avrà subito tutto il contesto                                                                  
+  3. In aggiunta ho salvato una memoria persistente che ti ritroverai anche in altre cartelle                                                                 
+                                                                                                                                                              
+  Il CLAUDE.md contiene:                                                                                                                                      
+  - Struttura cartelle completa                                                                                                                               
+  - Workflow per build/deploy                                                                                                                                 
+  - Stack tecnico, palette colori, URL                                                                                                                        
+  - Lista sezioni homepage                                                                                                                                    
+  - Roadmap (cosa è fatto, cosa resta)                                                                                                                        
+  - Note importanti (path asset, Plesk manuale, ecc.)                                                                                                         
+  - Team per contesto                                                                                                                                         
+                                                                                                                                                              
+  Quando riprendiamo, basterà aprire la cartella e dire "riprendiamo da dove eravamo". Buon lavoro!
