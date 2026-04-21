@@ -68,9 +68,9 @@ export default function Footer() {
         <div>
           <div className="f-col-h">Participate</div>
           <ul className="f-links">
-            <li><Link to="/apply/exhibitor">Become an Exhibitor</Link></li>
-            <li><Link to="/apply/buyer">Apply as Buyer</Link></li>
-            <li><Link to="/apply/partner">Partner with TRUE</Link></li>
+            <li><a href="https://survey.truevent.eu/2026/exhibitor-application" target="_blank" rel="noreferrer">Become an Exhibitor</a></li>
+            <li><a href="https://survey.truevent.eu/2026/buyer-application" target="_blank" rel="noreferrer">Apply as Buyer</a></li>
+            <li><a href="https://survey.truevent.eu/2026/partner-application" target="_blank" rel="noreferrer">Partner with TRUE</a></li>
           </ul>
         </div>
         <div>

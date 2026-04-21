@@ -1,5 +1,6 @@
-import { Link } from 'react-router-dom'
 import { asset } from '../config'
+
+const SURVEY = 'https://survey.truevent.eu'
 
 export default function Fullbleed() {
   return (
@@ -16,8 +17,8 @@ export default function Fullbleed() {
           TRUE OFFERS A SPACE WHERE YOUR STORY CAN BE HEARD AND FELT.
         </p>
         <div className="rv d3" style={{display:'flex',gap:'12px',flexWrap:'wrap'}}>
-          <Link to="/apply/exhibitor" className="btn btn-gold">Become an Exhibitor →</Link>
-          <Link to="/apply/buyer" className="btn btn-wht">Apply as Buyer</Link>
+          <a href={`${SURVEY}/2026/exhibitor-application`} target="_blank" rel="noreferrer" className="btn btn-gold">Become an Exhibitor →</a>
+          <a href={`${SURVEY}/2026/buyer-application`} target="_blank" rel="noreferrer" className="btn btn-wht">Apply as Buyer</a>
         </div>
       </div>
     </div>

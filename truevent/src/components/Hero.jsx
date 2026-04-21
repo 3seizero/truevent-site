@@ -1,5 +1,6 @@
-import { Link } from 'react-router-dom'
 import { asset } from '../config'
+
+const SURVEY = 'https://survey.truevent.eu'
 
 export default function Hero() {
   return (
@@ -32,7 +33,7 @@ export default function Hero() {
             <div><div className="stat-n">4</div><div className="stat-l">Editions / Year</div></div>
           </div>
           <div className="hero-actions">
-            <Link to="/apply/exhibitor" className="btn btn-gold">Apply Now →</Link>
+            <a href={`${SURVEY}/2026/exhibitor-application`} target="_blank" rel="noreferrer" className="btn btn-gold">Apply Now →</a>
             <div className="scroll-ind">
               <div className="scroll-bar"></div>
               Scroll to explore

@@ -1,0 +1,82 @@
+{
+  "slug": "puglia-2026-feedback",
+  "event": "puglia",
+  "edition": 2026,
+  "type": "feedback",
+  "title": "TRUE Puglia 2026",
+  "subtitle": "Get Your Feedback",
+  "intro": "Thank you for attending TRUE Puglia 2026. Your feedback helps us shape future editions and deliver even more meaningful experiences.",
+  "respondent_fields": ["name", "email", "company", "role"],
+  "questions": [
+    {
+      "key": "q1",
+      "text": "How would you rate your overall experience at this edition of TRUE Puglia?",
+      "type": "rating",
+      "required": true,
+      "options": ["Bad", "Average", "Good", "Outstanding"]
+    },
+    {
+      "key": "q2",
+      "text": "Which aspect of the event did you find most valuable for your professional goals?",
+      "type": "text",
+      "required": true,
+      "placeholder": "Share your thoughts..."
+    },
+    {
+      "key": "q3",
+      "text": "How would you rate the quality and relevance of the buyers and exhibitors you met during the networking sessions?",
+      "type": "rating",
+      "required": true,
+      "options": ["Bad", "Average", "Good", "Outstanding"]
+    },
+    {
+      "key": "q4",
+      "text": "How would you rate the quality and relevance of the exhibitors you met during the networking sessions?",
+      "type": "rating",
+      "required": true,
+      "options": ["Bad", "Average", "Good", "Outstanding"]
+    },
+    {
+      "key": "q5",
+      "text": "Which specific experience or site visit during the program stood out to you the most?",
+      "type": "text",
+      "required": true,
+      "placeholder": "Tell us about it..."
+    },
+    {
+      "key": "q6",
+      "text": "How satisfied were you with the event logistics, including transportation and scheduling?",
+      "type": "rating",
+      "required": true,
+      "options": ["Not so much", "Average", "Satisfied", "Very Satisfied"]
+    },
+    {
+      "key": "q7",
+      "text": "How would you rate the communication via TRUEapp and the support provided by the TRUE team before and during the event?",
+      "type": "rating",
+      "required": true,
+      "options": ["Bad", "Average", "Good", "Outstanding"]
+    },
+    {
+      "key": "q8",
+      "text": "Please share your feedback on the quality of the event locations, accommodations and dining experiences selected for this edition.",
+      "type": "text",
+      "required": true,
+      "placeholder": "Your feedback..."
+    },
+    {
+      "key": "q9",
+      "text": "What was the single most memorable moment of TRUE Puglia for you?",
+      "type": "text",
+      "required": true,
+      "placeholder": "Tell us your most memorable moment..."
+    },
+    {
+      "key": "q10",
+      "text": "Do you have any suggestions or specific feedback to help us make future editions even better?",
+      "type": "text",
+      "required": false,
+      "placeholder": "Any suggestions are welcome..."
+    }
+  ]
+}

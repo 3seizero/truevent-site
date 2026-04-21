@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom'
+const SURVEY = 'https://survey.truevent.eu'
 
 const DAYS = [
   { n: 'Day 1', date: 'Arrival Day, Icebreaker and Opening Party', desc: 'CHECK-IN AND WELCOME. ICEBREAKER EVENING: AN INFORMAL FIRST GATHERING TO MEET FELLOW PARTICIPANTS OVER FOOD, WINE AND THE SPIRIT OF THE DESTINATION.' },
@@ -25,7 +25,7 @@ export default function Program() {
             EVENING EVENTS BRING THE HOST DESTINATION TO LIFE — TURNING EVERY ENCOUNTER
             INTO A STORY WORTH TELLING.
           </p>
-          <Link to="/apply/buyer" className="btn btn-gold rv d3">Apply to Attend →</Link>
+          <a href={`${SURVEY}/2026/buyer-application`} target="_blank" rel="noreferrer" className="btn btn-gold rv d3">Apply to Attend →</a>
         </div>
         <div className="days">
           {DAYS.map(d => (

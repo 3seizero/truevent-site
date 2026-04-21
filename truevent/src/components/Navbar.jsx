@@ -34,8 +34,8 @@ export default function Navbar() {
           <a className="ov-link" href="#partners" onClick={close}>Partners</a>
         </nav>
         <div className="ov-bottom">
-          <Link to="/apply/exhibitor" className="btn btn-gold" onClick={close}>Apply as Exhibitor →</Link>
-          <Link to="/apply/buyer" className="btn btn-wht" onClick={close}>Apply as Buyer</Link>
+          <a href="https://survey.truevent.eu/2026/exhibitor-application" target="_blank" rel="noreferrer" className="btn btn-gold" onClick={close}>Apply as Exhibitor →</a>
+          <a href="https://survey.truevent.eu/2026/buyer-application" target="_blank" rel="noreferrer" className="btn btn-wht" onClick={close}>Apply as Buyer</a>
         </div>
         <div className="ov-label">truevnt — truevent.eu</div>
       </div>

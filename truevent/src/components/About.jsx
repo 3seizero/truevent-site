@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom'
+const SURVEY = 'https://survey.truevent.eu'
 
 export default function About() {
   return (
@@ -26,7 +26,7 @@ export default function About() {
             THROUGH CONNECTION AND ELEVATES THE WAY THE WORLD DISCOVERS DESTINATIONS.
           </p>
           <div style={{marginTop:'36px',display:'flex',gap:'12px',flexWrap:'wrap'}}>
-            <Link to="/apply/exhibitor" className="btn btn-gold">Join TRUE →</Link>
+            <a href={`${SURVEY}/2026/exhibitor-application`} target="_blank" rel="noreferrer" className="btn btn-gold">Join TRUE →</a>
             <a href="#destinations" className="btn btn-wht">See Editions</a>
           </div>
         </div>

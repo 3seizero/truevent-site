@@ -1,10 +1,9 @@
 import { asset } from '../config'
 
 const DESTS = [
-  { slug: 'puglia',    tag: 'Flagship Chapter', name: 'Puglia',    dates: 'Apr 2026', img: 'assets/img/dest-puglia.webp',    desc: 'WHITEWASHED VILLAGES, OLIVE GROVES AND COASTAL LIGHT. THE ORIGINAL TRUE CHAPTER THAT CONTINUES TO EVOLVE.' },
-  { slug: 'dolomites', tag: 'Mountain Chapter',  name: 'Dolomites', dates: 'Jun 2026', img: 'assets/img/dest-dolomiti.webp',  desc: 'DESIGN-LED RETREATS, ALPINE CULTURE AND SOFT ADVENTURE — A SLOWER APPROACH TO HIGH-ALTITUDE HOSPITALITY.', delay: 'd1' },
-  { slug: 'sardegna',  tag: 'Coastal Chapter',   name: 'Sardegna',  dates: 'Sep 2026', img: 'assets/img/dest-sardegna.webp',  desc: 'RUGGED COASTLINES, CRYSTALLINE WATERS AND A DISTINCT ISLAND IDENTITY THAT GOES FAR BEYOND SUMMER.', delay: 'd2' },
-  { slug: 'sicily',    tag: 'Island Stories',    name: 'Sicily',    dates: 'Nov 2026', img: 'assets/img/dest-sicilia.webp',   desc: 'LAYERS OF CULTURE, CUISINE AND LANDSCAPES WHERE EVERY ENCOUNTER FEELS CINEMATIC AND DEEPLY HUMAN.', delay: 'd3' },
+  { slug: 'dolomites', tag: 'Mountain Chapter',  name: 'Dolomites', dates: 'Jun 2026', img: 'assets/img/dest-dolomiti.webp',  desc: 'DESIGN-LED RETREATS, ALPINE CULTURE AND SOFT ADVENTURE — A SLOWER APPROACH TO HIGH-ALTITUDE HOSPITALITY.' },
+  { slug: 'sardegna',  tag: 'Coastal Chapter',   name: 'Sardegna',  dates: 'Sep 2026', img: 'assets/img/dest-sardegna.webp',  desc: 'RUGGED COASTLINES, CRYSTALLINE WATERS AND A DISTINCT ISLAND IDENTITY THAT GOES FAR BEYOND SUMMER.', delay: 'd1' },
+  { slug: 'sicily',    tag: 'Island Stories',    name: 'Sicily',    dates: 'Nov 2026', img: 'assets/img/dest-sicilia.webp',   desc: 'LAYERS OF CULTURE, CUISINE AND LANDSCAPES WHERE EVERY ENCOUNTER FEELS CINEMATIC AND DEEPLY HUMAN.', delay: 'd2' },
 ]
 
 export default function Destinations() {
