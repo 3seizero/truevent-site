@@ -1,5 +1,0 @@
-.DS_Store
-frontend/node_modules
-frontend/dist
-backend/config.php
-backend/vendor
