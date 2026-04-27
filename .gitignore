@@ -1,8 +1,6 @@
 .DS_Store
 node_modules/
 
-# Progetti separati (vivono nello stesso workspace ma non sono parte del repo del sito)
-/survey/
-/sales/
-/library/
-/_shared/
+# Source vive in site/source/, non in questo repo
+/source/
+/build.sh
