@@ -1,0 +1,13 @@
+<IfModule mod_headers.c>
+  # HTML: mai cache "dura" — il browser rivalida sempre, così i nuovi deploy
+  # si vedono subito senza hard refresh (l'HTML referenzia i bundle con hash).
+  <FilesMatch "\.html$">
+    Header set Cache-Control "no-cache, must-revalidate, max-age=0"
+    Header unset Expires
+  </FilesMatch>
+
+  # Asset di build con hash nel nome (index-XXXX.js/.css): cache lunga e immutabile.
+  <FilesMatch "index-[A-Za-z0-9_-]+\.(js|css)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+</IfModule>
