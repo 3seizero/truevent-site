@@ -4,3 +4,6 @@ node_modules/
 # Source vive in site/source/, non in questo repo
 /source/
 /build.sh
+
+# File di lavoro interno: non pubblicare l'Excel sorgente della TRUE Collection
+/assets/docs/
