@@ -10,6 +10,9 @@
 </IfModule>
 
 <IfModule mod_headers.c>
+  # DEV: pagine in sviluppo, blocco indicizzazione lato server (rimuovere al go-live).
+  Header set X-Robots-Tag "noindex, nofollow"
+
   # HTML: mai cache "dura" — il browser rivalida sempre, così i nuovi deploy
   # si vedono subito senza hard refresh (l'HTML referenzia i bundle con hash).
   <FilesMatch "\.html$">
