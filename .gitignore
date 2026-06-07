@@ -7,3 +7,6 @@ node_modules/
 
 # File di lavoro interno: non pubblicare l'Excel sorgente della TRUE Collection
 /assets/docs/
+
+# Cartella di backup locale: non pubblicare
+/assets/backup/
