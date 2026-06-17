@@ -3,28 +3,11 @@
 <IfModule mod_rewrite.c>
   RewriteEngine On
   RewriteBase /restyling/
-
-  # ====================== MODALITA MANUTENZIONE ======================
-  # URL segreto: visitandolo UNA volta il browser salva il cookie admin
-  # (~1 anno) e viene reindirizzato alla home. Da allora vedi il sito normale.
-  #   https://truevent.eu/restyling/unlock/fdq2wce4aj5oqcp0jzh7k9dium62
-  RewriteRule ^unlock/fdq2wce4aj5oqcp0jzh7k9dium62/?$ /restyling/ [CO=true_admin:w29b9hq0kefb0g99vwh2qcnvkptzutghjk4scpdn:truevent.eu:525600:/:1:1,R=302,L]
-
-  # Per ATTIVARE la manutenzione: DEcommenta le 3 righe qui sotto, commit + push.
-  # Per DISATTIVARE: ricommentale. Chi ha il cookie admin (o /maintenance.html) passa sempre.
-  # RewriteCond %{HTTP_COOKIE} !true_admin=w29b9hq0kefb0g99vwh2qcnvkptzutghjk4scpdn [NC]
-  # RewriteCond %{REQUEST_URI} !/maintenance\.html$ [NC]
-  # RewriteRule ^ - [R=503,L]
-  # ===================================================================
-
   RewriteRule ^index\.html$ - [L]
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteCond %{REQUEST_FILENAME} !-d
   RewriteRule . /restyling/index.html [L]
 </IfModule>
-
-# Pagina servita come corpo dell'errore 503 durante la manutenzione.
-ErrorDocument 503 /restyling/maintenance.html
 
 <IfModule mod_headers.c>
   # DEV: pagine in sviluppo, blocco indicizzazione lato server (rimuovere al go-live).
