@@ -1,26 +1,24 @@
-# SPA fallback: le rotte client-side (es. /restyling/true-exhibitors) servono index.html.
-# I file reali (asset, immagini, video, docs) vengono serviti direttamente.
+# SANDBOX RESTYLING - servito su dev.truevent.eu (root). SPA fallback base '/'.
 <IfModule mod_rewrite.c>
   RewriteEngine On
-  RewriteBase /restyling/
+  RewriteBase /
   RewriteRule ^index\.html$ - [L]
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteCond %{REQUEST_FILENAME} !-d
-  RewriteRule . /restyling/index.html [L]
+  RewriteRule . /index.html [L]
 </IfModule>
 
 <IfModule mod_headers.c>
-  # DEV: pagine in sviluppo, blocco indicizzazione lato server (rimuovere al go-live).
+  # Sandbox: mai indicizzare (oltre al meta robots noindex nell'HTML).
   Header set X-Robots-Tag "noindex, nofollow"
 
-  # HTML: mai cache "dura" — il browser rivalida sempre, così i nuovi deploy
-  # si vedono subito senza hard refresh (l'HTML referenzia i bundle con hash).
+  # HTML: rivalidazione immediata (nuovi deploy visibili subito).
   <FilesMatch "\.html$">
     Header set Cache-Control "no-cache, must-revalidate, max-age=0"
     Header unset Expires
   </FilesMatch>
 
-  # Asset di build con hash nel nome (index-XXXX.js/.css): cache lunga e immutabile.
+  # Bundle con hash: cache lunga immutabile.
   <FilesMatch "index-[A-Za-z0-9_-]+\.(js|css)$">
     Header set Cache-Control "public, max-age=31536000, immutable"
   </FilesMatch>
