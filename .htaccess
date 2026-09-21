@@ -2,6 +2,18 @@
 <IfModule mod_rewrite.c>
   RewriteEngine On
   RewriteBase /
+  # ===================== REDIRECT VECCHIO SITO WORDPRESS (SEO, 2026-09-21) =====================
+  # Gli URL del vecchio sito sono ancora indicizzati con titoli e date 2025: 301 verso la
+  # sezione corrispondente della home, cosi Google aggiorna o rimuove i vecchi risultati.
+  # NE = non ri-codificare il "#"; L = stop; R=301 = permanente.
+  RewriteRule ^(puglia|sicily|sicilia|dolomites|dolomiti|tuscany|toscana|sardegna|sardinia|campania)/exhibitors/?$ /true-exhibitors [R=301,L]
+  RewriteRule ^(puglia|sicily|sicilia|dolomites|dolomiti|tuscany|toscana|sardegna|sardinia|campania)/true-agenda/?$ /#program [NE,R=301,L]
+  RewriteRule ^(puglia|sicily|sicilia|dolomites|dolomiti|tuscany|toscana|sardegna|sardinia|campania)(/.*)?$ /#grand-tour [NE,R=301,L]
+  RewriteRule ^(roadtotrue|road-to-true)[a-z0-9_-]*(/.*)?$ /#road-to-true [NE,R=301,L]
+  RewriteRule ^(homepage-old|home|homepage|index\.php)/?$ / [R=301,L]
+  RewriteRule ^(exhibitors|partners|buyers|program|press|team|about)/?$ /#$1 [NE,R=301,L]
+  RewriteRule ^(wp-content|wp-includes|wp-json|feed|category|tag|author)(/.*)?$ / [R=301,L]
+  # ==============================================================================================
   RewriteRule ^index\.html$ - [L]
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteCond %{REQUEST_FILENAME} !-d

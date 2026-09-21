@@ -8,31 +8,302 @@
     <!-- SANDBOX restyling: non indicizzare -->
     <meta name="robots" content="noindex, nofollow" />
 
-    <title>TRUE (restyling) - You can't tell the stories you don't live.</title>
-    <meta name="description" content="Curated B2B experiences where Italy's most remarkable hospitality brands meet the world's most influential travel advisors - through emotion, not exhibition." />
+    <title>TRUE (restyling) | Luxury Travel Trade Shows in Italy 2027</title>
+    <meta name="description" content="Invitation-only luxury travel trade shows connecting the world's top travel advisors with Italy's finest hospitality. 2027: Road to TRUE West Coast and the TRUE Italy Grand Tour across six destinations." />
 
     <!-- Open Graph (Facebook, WhatsApp, LinkedIn) -->
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="TRUE" />
-    <meta property="og:title" content="TRUE - You can't tell the stories you don't live." />
-    <meta property="og:description" content="Curated B2B experiences where Italy's most remarkable hospitality brands meet the world's most influential travel advisors - through emotion, not exhibition." />
+    <meta property="og:title" content="TRUE | Luxury Travel Trade Shows in Italy 2027" />
+    <meta property="og:description" content="Invitation-only luxury travel trade shows connecting the world's top travel advisors with Italy's finest hospitality. 2027: Road to TRUE West Coast and the TRUE Italy Grand Tour across six destinations." />
     <meta property="og:url" content="https://dev.truevent.eu/" />
     <meta property="og:image" content="https://dev.truevent.eu/assets/img/banner-og-v2.jpg" />
     <meta property="og:image:secure_url" content="https://dev.truevent.eu/assets/img/banner-og-v2.jpg" />
     <meta property="og:image:type" content="image/jpeg" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="524" />
-    <meta property="og:image:alt" content="TRUE - luxury travel in Italy" />
+    <meta property="og:image:alt" content="TRUE - luxury travel trade shows in Italy" />
     <meta property="og:locale" content="en_US" />
 
     <!-- Twitter / X -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="TRUE - You can't tell the stories you don't live." />
-    <meta name="twitter:description" content="Curated B2B experiences where Italy's most remarkable hospitality brands meet the world's most influential travel advisors - through emotion, not exhibition." />
+    <meta name="twitter:title" content="TRUE | Luxury Travel Trade Shows in Italy 2027" />
+    <meta name="twitter:description" content="Invitation-only luxury travel trade shows connecting the world's top travel advisors with Italy's finest hospitality. 2027: Road to TRUE West Coast and the TRUE Italy Grand Tour across six destinations." />
     <meta name="twitter:image" content="https://dev.truevent.eu/assets/img/banner-og-v2.jpg" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com"/>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&family=Roboto+Mono:wght@400;500&display=swap" rel="stylesheet"/>
+    <!-- Dati strutturati (schema.org): organizzazione, sito, sezioni, eventi 2027. Aggiornare le date qui e in GrandTour.jsx / RoadToTrue.jsx insieme. -->
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://truevent.eu/#organization",
+      "name": "TRUE",
+      "alternateName": [
+        "TRUE Event",
+        "TRUE Italy"
+      ],
+      "url": "https://truevent.eu/",
+      "logo": "https://truevent.eu/assets/img/banner-og-v2.jpg",
+      "description": "TRUE organizes invitation-only luxury travel trade shows that connect the world's most influential travel advisors with Italy's finest hospitality brands, through curated site inspections, one-to-one meetings and authentic experiences.",
+      "parentOrganization": {
+        "@type": "Organization",
+        "name": "Inventure Life S.r.l.",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Rome",
+          "addressCountry": "IT"
+        }
+      },
+      "sameAs": [
+        "https://www.instagram.com/truevnt",
+        "https://linkedin.com/company/true-event-ps/"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://truevent.eu/#website",
+      "url": "https://truevent.eu/",
+      "name": "TRUE",
+      "publisher": {
+        "@id": "https://truevent.eu/#organization"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "ItemList",
+      "name": "TRUE site sections",
+      "itemListElement": [
+        {
+          "@type": "SiteNavigationElement",
+          "position": 1,
+          "name": "Road to TRUE",
+          "url": "https://truevent.eu/#road-to-true"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "position": 2,
+          "name": "TRUE Italy Grand Tour",
+          "url": "https://truevent.eu/#grand-tour"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "position": 3,
+          "name": "TRUE Collection",
+          "url": "https://truevent.eu/true-exhibitors"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "position": 4,
+          "name": "Partners",
+          "url": "https://truevent.eu/#partners"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "position": 5,
+          "name": "Buyers",
+          "url": "https://truevent.eu/#buyers"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "position": 6,
+          "name": "Program",
+          "url": "https://truevent.eu/#program"
+        }
+      ]
+    },
+    {
+      "@type": "Event",
+      "name": "Road to TRUE West Coast 2027",
+      "startDate": "2027-02-01",
+      "endDate": "2027-02-05",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "location": {
+        "@type": "Place",
+        "name": "Los Angeles",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Los Angeles",
+          "addressRegion": "CA",
+          "addressCountry": "US"
+        }
+      },
+      "organizer": {
+        "@id": "https://truevent.eu/#organization"
+      },
+      "description": "International roadshow: Italian luxury hospitality brands meet 150 top travel advisors from the U.S. West Coast through curated one-to-one meetings and networking events.",
+      "url": "https://truevent.eu/#road-to-true",
+      "image": "https://truevent.eu/assets/img/banner-og-v2.jpg",
+      "isAccessibleForFree": false
+    },
+    {
+      "@type": "EventSeries",
+      "name": "TRUE Italy Grand Tour 2027",
+      "startDate": "2027-04-12",
+      "endDate": "2027-11-07",
+      "description": "More than 180 of the world's leading luxury travel advisors, media and partners travel across Italy through three connected grand tours, each built around two complementary destinations: Tuscany & Puglia, Sardinia & Dolomites, Campania & Sicily.",
+      "url": "https://truevent.eu/#grand-tour",
+      "organizer": {
+        "@id": "https://truevent.eu/#organization"
+      },
+      "location": {
+        "@type": "Country",
+        "name": "Italy"
+      },
+      "subEvent": [
+        {
+          "@type": "Event",
+          "name": "TRUE Tuscany 2027",
+          "startDate": "2027-04-12",
+          "endDate": "2027-04-17",
+          "eventStatus": "https://schema.org/EventScheduled",
+          "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+          "location": {
+            "@type": "Place",
+            "name": "Tuscany",
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Tuscany",
+              "addressCountry": "IT"
+            }
+          },
+          "organizer": {
+            "@id": "https://truevent.eu/#organization"
+          },
+          "description": "TRUE Italy Grand Tour, first leg: pre-fam trip 12-14 April, main event 15-17 April.",
+          "url": "https://truevent.eu/#grand-tour",
+          "image": "https://truevent.eu/assets/img/banner-og-v2.jpg",
+          "isAccessibleForFree": false
+        },
+        {
+          "@type": "Event",
+          "name": "TRUE Puglia 2027",
+          "startDate": "2027-04-18",
+          "endDate": "2027-04-23",
+          "eventStatus": "https://schema.org/EventScheduled",
+          "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+          "location": {
+            "@type": "Place",
+            "name": "Puglia",
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Puglia",
+              "addressCountry": "IT"
+            }
+          },
+          "organizer": {
+            "@id": "https://truevent.eu/#organization"
+          },
+          "description": "TRUE Italy Grand Tour, first leg: main event 18-20 April, post-fam trip 21-23 April.",
+          "url": "https://truevent.eu/#grand-tour",
+          "image": "https://truevent.eu/assets/img/banner-og-v2.jpg",
+          "isAccessibleForFree": false
+        },
+        {
+          "@type": "Event",
+          "name": "TRUE Sardinia 2027",
+          "startDate": "2027-06-12",
+          "endDate": "2027-06-17",
+          "eventStatus": "https://schema.org/EventScheduled",
+          "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+          "location": {
+            "@type": "Place",
+            "name": "Sardinia",
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Sardinia",
+              "addressCountry": "IT"
+            }
+          },
+          "organizer": {
+            "@id": "https://truevent.eu/#organization"
+          },
+          "description": "TRUE Italy Grand Tour, second leg: pre-fam trip 12-14 June, main event 15-17 June.",
+          "url": "https://truevent.eu/#grand-tour",
+          "image": "https://truevent.eu/assets/img/banner-og-v2.jpg",
+          "isAccessibleForFree": false
+        },
+        {
+          "@type": "Event",
+          "name": "TRUE Dolomites 2027",
+          "startDate": "2027-06-18",
+          "endDate": "2027-06-23",
+          "eventStatus": "https://schema.org/EventScheduled",
+          "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+          "location": {
+            "@type": "Place",
+            "name": "Dolomites",
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Trentino-Alto Adige / Veneto",
+              "addressCountry": "IT"
+            }
+          },
+          "organizer": {
+            "@id": "https://truevent.eu/#organization"
+          },
+          "description": "TRUE Italy Grand Tour, second leg: main event 18-20 June, post-fam trip 21-23 June.",
+          "url": "https://truevent.eu/#grand-tour",
+          "image": "https://truevent.eu/assets/img/banner-og-v2.jpg",
+          "isAccessibleForFree": false
+        },
+        {
+          "@type": "Event",
+          "name": "TRUE Campania 2027",
+          "startDate": "2027-10-27",
+          "endDate": "2027-11-01",
+          "eventStatus": "https://schema.org/EventScheduled",
+          "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+          "location": {
+            "@type": "Place",
+            "name": "Campania",
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Campania",
+              "addressCountry": "IT"
+            }
+          },
+          "organizer": {
+            "@id": "https://truevent.eu/#organization"
+          },
+          "description": "TRUE Italy Grand Tour, third leg: pre-fam trip 27-29 October, main event 30 October - 1 November.",
+          "url": "https://truevent.eu/#grand-tour",
+          "image": "https://truevent.eu/assets/img/banner-og-v2.jpg",
+          "isAccessibleForFree": false
+        },
+        {
+          "@type": "Event",
+          "name": "TRUE Sicily 2027",
+          "startDate": "2027-11-02",
+          "endDate": "2027-11-07",
+          "eventStatus": "https://schema.org/EventScheduled",
+          "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+          "location": {
+            "@type": "Place",
+            "name": "Sicily",
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Sicily",
+              "addressCountry": "IT"
+            }
+          },
+          "organizer": {
+            "@id": "https://truevent.eu/#organization"
+          },
+          "description": "TRUE Italy Grand Tour, third leg: main event 2-4 November, post-fam trip 5-7 November.",
+          "url": "https://truevent.eu/#grand-tour",
+          "image": "https://truevent.eu/assets/img/banner-og-v2.jpg",
+          "isAccessibleForFree": false
+        }
+      ]
+    }
+  ]
+}
+    </script>
     <script type="module" crossorigin src="/assets/index-BWD9G2zR.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-BV8yTJwV.css">
   </head>
