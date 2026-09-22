@@ -1,0 +1,30 @@
+# TRUE
+
+> TRUE organizes invitation-only luxury travel trade shows that connect the world's most influential travel advisors with Italy's finest hospitality brands, through curated site inspections, one-to-one meetings and authentic experiences.
+
+TRUE (TRUE Event, TRUE Italy) is Italy's leading luxury travel network and B2B event platform, founded in 2022 by Luigi De Santis and operated by Inventure Life S.r.l. (Rome). It connects over 5,000 luxury travel advisors worldwide with more than 300 hotels, resorts, villas and DMCs across Italy. Each edition is dedicated to one Italian region: selected advisors meet exhibitors in pre-scheduled one-to-one B2B appointments, then experience the destination through fam trips and site inspections. Participation is all-inclusive for exhibitors and advisors. Applications: https://hub.truevent.eu
+
+## Pages
+
+- [Home](https://dev.truevent.eu/)
+- [TRUE Collection](https://dev.truevent.eu/true-exhibitors): The affiliated exhibitors of TRUE: the finest hotels, resorts, villas, DMCs and experiences in Puglia, Sicily, Sardinia and the Dolomites, on an interactive map of Italy.
+- [About](https://dev.truevent.eu/about): TRUE is Italy's luxury travel network and B2B event platform: regional editions where hotels, villas and DMCs meet selected international travel advisors through one-to-one meetings and fam trips.
+- [Road to TRUE](https://dev.truevent.eu/road-to-true): The international roadshow of Italian luxury hospitality: 50 TRUE brands meet 150 top travel advisors from the U.S. West Coast in Los Angeles, February 1-5, 2027. Past editions: Brazil, Mexico, New York.
+- [TRUE Italy Grand Tour](https://dev.truevent.eu/italy-grand-tour): Tuscany and Puglia in April, Sardinia and the Dolomites in June, Campania and Sicily in autumn: 180+ luxury travel advisors, media and partners travel across Italy with TRUE in 2027. Dates and format.
+- [Buyers](https://dev.truevent.eu/buyers): How TRUE selects its buyers: high-performing luxury travel advisors from the USA, Canada, Latin America, Australia and Europe, with verified sales toward Italy and a curated portfolio.
+- [Join TRUE](https://dev.truevent.eu/join): Take part in TRUE as an exhibitor (hotels, villas, DMCs and bespoke experiences), as a buyer (selected luxury travel advisors) or as a partner (tourism boards and brands). Applications open on the TRUE Hub.
+- [Program](https://dev.truevent.eu/program): Four days per edition: arrival and icebreaker, two days of scheduled one-to-one B2B meetings with destination evenings, a day of first-hand experiences, departure. The TRUE format explained.
+- [Team](https://dev.truevent.eu/team): The TRUE team: founder and managing director Luigi De Santis and the sales, events, marketing, logistics and relations professionals who run every edition.
+- [Press](https://dev.truevent.eu/press): TRUE luxury travel events as featured in Forbes, Robb Report, Travel + Leisure, Corriere della Sera, la Repubblica, Il Messaggero, TTG and the international travel trade press.
+- [Partners](https://dev.truevent.eu/partners): Destination partners, official DMCs, main partners, logistics, media and technical partners of the TRUE luxury travel events across Italy.
+- [TRUE Reports](https://dev.truevent.eu/reports): Annual market reports on luxury travel in Italy's destinations, published by TRUE for travel advisors and hoteliers: official tourism data, source markets, the luxury segment and what it means for the trade.
+- [Sardinia](https://dev.truevent.eu/reports/sardinia): Annual market reports on luxury travel in Sardinia, published by TRUE for travel advisors and hoteliers. Latest edition: Sardinia Luxury Travel Report 2026.
+
+## TRUE Reports (annual market reports by destination)
+
+- [Sardinia 2026: The Numbers Behind Italy's Fastest-Growing Luxury Destination](https://dev.truevent.eu/reports/sardinia/2026): Sardinia is Italy's fastest-growing tourism region. Key 2025-2026 data for luxury travel advisors and hoteliers: markets, the American traveller, Costa Smeralda, the whole island. From TRUE Sardegna 2026. PDF: https://dev.truevent.eu/reports/sardinia/2026/TRUE-Sardinia-Report-2026.pdf
+
+## Optional
+
+- [Full text of every page and report](https://dev.truevent.eu/llms-full.txt)
+- [Sitemap](https://dev.truevent.eu/sitemap.xml)

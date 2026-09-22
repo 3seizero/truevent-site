@@ -6,14 +6,33 @@
   # Gli URL del vecchio sito sono ancora indicizzati con titoli e date 2025: 301 verso la
   # sezione corrispondente della home, cosi Google aggiorna o rimuove i vecchi risultati.
   # NE = non ri-codificare il "#"; L = stop; R=301 = permanente.
+  # Dal 2026-09-22 le sezioni sono PAGINE vere (prerenderizzate): i vecchi URL puntano
+  # alla pagina corrispondente, non piu' a un'ancora della home.
   RewriteRule ^(puglia|sicily|sicilia|dolomites|dolomiti|tuscany|toscana|sardegna|sardinia|campania)/exhibitors/?$ /true-exhibitors [R=301,L]
-  RewriteRule ^(puglia|sicily|sicilia|dolomites|dolomiti|tuscany|toscana|sardegna|sardinia|campania)/true-agenda/?$ /#program [NE,R=301,L]
-  RewriteRule ^(puglia|sicily|sicilia|dolomites|dolomiti|tuscany|toscana|sardegna|sardinia|campania)(/.*)?$ /#grand-tour [NE,R=301,L]
-  RewriteRule ^(roadtotrue|road-to-true)[a-z0-9_-]*(/.*)?$ /#road-to-true [NE,R=301,L]
-  RewriteRule ^(homepage-old|home|homepage|index\.php)/?$ / [R=301,L]
-  RewriteRule ^(exhibitors|partners|buyers|program|press|team|about)/?$ /#$1 [NE,R=301,L]
+  RewriteRule ^(puglia|sicily|sicilia|dolomites|dolomiti|tuscany|toscana|sardegna|sardinia|campania)/true-agenda/?$ /program [R=301,L]
+  RewriteRule ^(puglia|sicily|sicilia|dolomites|dolomiti|tuscany|toscana|sardegna|sardinia|campania)(/.*)?$ /italy-grand-tour [R=301,L]
+  # roadtotrue* (vecchio WordPress) e /road-to-true-qualcosa -> pagina Road to TRUE.
+  # NB: /road-to-true da solo NON entra qui, e' la pagina vera.
+  RewriteRule ^(roadtotrue[a-z0-9_-]*|road-to-true[a-z0-9_-]+)(/.*)?$ /road-to-true [R=301,L]
+  RewriteRule ^road-to-true/.+$ /road-to-true [R=301,L]
+  RewriteRule ^(homepage-old|homepage|home|index\.php)/?$ / [R=301,L]
+  # about/buyers/partners/program/press/team esistono come pagine: i vecchi URL ci arrivano diretti.
+  RewriteRule ^exhibitors/?$ /true-exhibitors [R=301,L]
   RewriteRule ^(wp-content|wp-includes|wp-json|feed|category|tag|author)(/.*)?$ / [R=301,L]
   # ==============================================================================================
+  # ===================== PAGINE PRERENDERIZZATE (2026-09-22) =====================
+  # Ogni pagina del sito esiste come HTML statico completo (vedi scripts/prerender.mjs):
+  # /reports/sardinia/2026 -> /reports/sardinia/2026.html, /about -> /about.html, ecc.
+  # Serve ai motori di ricerca e agli assistenti AI, che spesso non eseguono JavaScript.
+  # Se il file .html non esiste si passa al fallback SPA piu' sotto.
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{DOCUMENT_ROOT}/$1.html -f
+  RewriteRule ^(.+?)/?$ /$1.html [L]
+
+  # PDF dei report: Link canonical verso la pagina, cosi' Google indicizza la pagina e non il PDF.
+  RewriteRule ^(reports/[a-z0-9-]+/[0-9]{4})/[^/]+\.pdf$ - [E=PDFCANON:%{HTTP_HOST}/$1]
+  # ===============================================================================
   RewriteRule ^index\.html$ - [L]
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteCond %{REQUEST_FILENAME} !-d
@@ -28,6 +47,11 @@
   <FilesMatch "\.html$">
     Header set Cache-Control "no-cache, must-revalidate, max-age=0"
     Header unset Expires
+  </FilesMatch>
+
+  # PDF dei report: canonical verso la pagina HTML (variabile impostata dal rewrite sopra).
+  <FilesMatch "\.pdf$">
+    Header set Link "<https://%{PDFCANON}e>; rel=\"canonical\"" env=PDFCANON
   </FilesMatch>
 
   # Bundle con hash: cache lunga immutabile.
