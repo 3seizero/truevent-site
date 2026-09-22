@@ -25,8 +25,9 @@
   # /reports/sardinia/2026 -> /reports/sardinia/2026.html, /about -> /about.html, ecc.
   # Serve ai motori di ricerca e agli assistenti AI, che spesso non eseguono JavaScript.
   # Se il file .html non esiste si passa al fallback SPA piu' sotto.
+  # NB: niente "!-d". /reports e /reports/sardinia sono ANCHE cartelle (contengono PDF e og.jpg):
+  # con la condizione sulle cartelle il rewrite non partiva e mod_dir rimandava a /reports/.
   RewriteCond %{REQUEST_FILENAME} !-f
-  RewriteCond %{REQUEST_FILENAME} !-d
   RewriteCond %{DOCUMENT_ROOT}/$1.html -f
   RewriteRule ^(.+?)/?$ /$1.html [L]
 
