@@ -1,4 +1,11 @@
 # SANDBOX RESTYLING - servito su dev.truevent.eu (root). SPA fallback base '/'.
+# Le pagine prerenderizzate vincono sulle cartelle omonime (/reports e' una pagina, e anche
+# la cartella che contiene i PDF): senza questo, mod_dir rimanderebbe a /reports/.
+<IfModule mod_dir.c>
+  DirectorySlash Off
+</IfModule>
+Options -Indexes
+
 <IfModule mod_rewrite.c>
   RewriteEngine On
   RewriteBase /
