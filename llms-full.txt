@@ -1,6 +1,6 @@
 # TRUE - full text
 
-Source: https://dev.truevent.eu. Generated 2026-10-15.
+Source: https://dev.truevent.eu. Generated 2026-10-19.
 
 ---
 
@@ -362,6 +362,8 @@ Main Partners
 Main Logistic Partners
 
 Media & Press Partners
+
+Technical & Event Partners
 
 ---
 
@@ -1001,6 +1003,8 @@ Main Partners
 Main Logistic Partners
 
 Media & Press Partners
+
+Technical & Event Partners
 
 Be Part of TRUE
 
