@@ -1,6 +1,6 @@
 # TRUE - full text
 
-Source: https://dev.truevent.eu. Generated 2026-10-19.
+Source: https://dev.truevent.eu. Generated 2026-10-20.
 
 ---
 
@@ -327,7 +327,7 @@ Brand & Marketing Director
 
 AA
 Alessandro Alei
-Director of Logistic
+Director of Logistics
 
 TC
 Tatiana Colonna
@@ -938,7 +938,7 @@ Brand & Marketing Director
 
 AA
 Alessandro Alei
-Director of Logistic
+Director of Logistics
 
 TC
 Tatiana Colonna
