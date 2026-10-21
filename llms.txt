@@ -18,10 +18,12 @@ TRUE (TRUE Event, TRUE Italy) is Italy's leading luxury travel network and B2B e
 - [Press](https://dev.truevent.eu/press): TRUE luxury travel events as featured in Forbes, Robb Report, Travel + Leisure, Corriere della Sera, la Repubblica, Il Messaggero, TTG and the international travel trade press.
 - [Partners](https://dev.truevent.eu/partners): Destination partners, official DMCs, main partners, logistics, media and technical partners of the TRUE luxury travel events across Italy.
 - [TRUE Reports](https://dev.truevent.eu/reports): Annual market reports on luxury travel in Italy's destinations, published by TRUE for travel advisors and hoteliers: official tourism data, source markets, the luxury segment and what it means for the trade.
+- [Sicily](https://dev.truevent.eu/reports/sicily): Annual market reports on luxury travel in Sicily, published by TRUE for travel advisors and hoteliers. Latest edition: Sicily Luxury Travel Report 2026.
 - [Sardinia](https://dev.truevent.eu/reports/sardinia): Annual market reports on luxury travel in Sardinia, published by TRUE for travel advisors and hoteliers. Latest edition: Sardinia Luxury Travel Report 2026.
 
 ## TRUE Reports (annual market reports by destination)
 
+- [Sicily 2026: The Numbers Behind the Growth of International Luxury Travel](https://dev.truevent.eu/reports/sicily/2026): Sicily's tourism keeps growing, led by international and North American travellers. Key 2024-2026 data for luxury travel advisors and hoteliers: markets, hotel rates, Palermo, Taormina, Western Sicily. From TRUE Sicily 2026. PDF: https://dev.truevent.eu/reports/sicily/2026/TRUE-Sicily-Report-2026.pdf
 - [Sardinia 2026: The Numbers Behind Italy's Fastest-Growing Luxury Destination](https://dev.truevent.eu/reports/sardinia/2026): Sardinia is Italy's fastest-growing tourism region. Key 2025-2026 data for luxury travel advisors and hoteliers: markets, the American traveller, Costa Smeralda, the whole island. From TRUE Sardegna 2026. PDF: https://dev.truevent.eu/reports/sardinia/2026/TRUE-Sardinia-Report-2026.pdf
 
 ## Optional
