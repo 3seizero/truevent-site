@@ -1,6 +1,6 @@
 # TRUE - full text
 
-Source: https://dev.truevent.eu. Generated 2026-10-21.
+Source: https://dev.truevent.eu. Generated 2026-10-22.
 
 ---
 
@@ -1030,7 +1030,7 @@ Sicily · 2026
 
 ## Sicily 2026: The Numbers Behind the Growth of International Luxury Travel
 
-Sicily&#x27;s tourism is now driven by international travellers, longer stays and rising hotel rates at the top of the market. This report brings together the latest published data: overall growth, the weight of foreign and North American demand, the performance of Palermo, Taormina and the southwest, and what it means for luxury travel advisors and hoteliers.
+Sicily entered 2026 from an already high base, and its growth is now driven by international travellers, longer stays and rising hotel rates at the top of the market. This report brings together the latest available data: who is travelling to Sicily, the weight of North America, the performance of Palermo, Taormina and the southwest, and what it means for luxury travel advisors and hoteliers.
 Read the report → All Sicily editions
 
 Sardinia · 2026
@@ -1059,19 +1059,19 @@ Latest edition · 2026
 ## Sicily 2026: The Numbers Behind the Growth of International Luxury Travel
 
 A market report for luxury travel advisors and hoteliers . Published November 2026 , data as of October 2026 .
-Sicily&#x27;s tourism is now driven by international travellers, longer stays and rising hotel rates at the top of the market. This report brings together the latest published data: overall growth, the weight of foreign and North American demand, the performance of Palermo, Taormina and the southwest, and what it means for luxury travel advisors and hoteliers.
+Sicily entered 2026 from an already high base, and its growth is now driven by international travellers, longer stays and rising hotel rates at the top of the market. This report brings together the latest available data: who is travelling to Sicily, the weight of North America, the performance of Palermo, Taormina and the southwest, and what it means for luxury travel advisors and hoteliers.
 
 +18.4%
 overnight stays, January-August 2026 compared with 2024*
 
-+4.9%
++4.6%
 arrivals, January-August 2026 compared with 2024*
 
 +5.8%
 overnight stays, January-August 2026 compared with 2025
 
-~13 million
-international overnight stays in 2025 (+5.5%), more than half of the total
++8.5%
+North American arrivals, first half of 2026 compared with 2025
 Read the report → Download the PDF
 
 All editions
@@ -1121,39 +1121,43 @@ The next edition will be published with TRUE Sardinia 2027 .
 # TRUE Reports: Sicily 2026: The Numbers Behind the Growth of International Luxury Travel
 A market report for luxury travel advisors and hoteliers, published by TRUE Sicily, November 2026. Data as of October 2026. Version 1.0.
 
-Sicily's tourism is now driven by international travellers, longer stays and rising hotel rates at the top of the market. This report brings together the latest published data: overall growth, the weight of foreign and North American demand, the performance of Palermo, Taormina and the southwest, and what it means for luxury travel advisors and hoteliers.
+Sicily entered 2026 from an already high base, and its growth is now driven by international travellers, longer stays and rising hotel rates at the top of the market. This report brings together the latest available data: who is travelling to Sicily, the weight of North America, the performance of Palermo, Taormina and the southwest, and what it means for luxury travel advisors and hoteliers.
 It was presented at TRUE Sicily 2026, the luxury travel trade event held at Verdura Resort from November 10 to 13, 2026.
 
 ## Sicily at a glance
 - +18.4%: overnight stays, January-August 2026 compared with 2024*
-- +4.9%: arrivals, January-August 2026 compared with 2024*
+- +4.6%: arrivals, January-August 2026 compared with 2024*
 - +5.8%: overnight stays, January-August 2026 compared with 2025
-- ~13 million: international overnight stays in 2025 (+5.5%), more than half of the total
-- +8.5%: US and Canadian arrivals, first half of 2026
-- 63.8%: international share of nights in Palermo in 2025 (54.7% in 2019)
-- ~€1,500: average daily rate at Taormina's leading luxury hotels in 2025
-- +80%: real growth of that rate compared with 2018
-- 1M+: visitors to the Valley of the Temples in the first half of 2026
+- +8.5%: North American arrivals, first half of 2026 compared with 2025
+- 380K: US arrivals in 2024
+- €1,500: leading Taormina five-star average daily rate
+- +43%: luxury hotel average daily rate compared with 2019
+- €1BN: real-estate investment in five years
+- 67%: share of investment capital from abroad
+- 2,500+: premium hotel rooms in the pipeline to 2030
+- 50.3%: international share, Province of Agrigento
+- +15.9%: US nights in Agrigento, 2025 compared with 2024
 
 ## Sicily's tourism growth, 2024-2026
-Sicily starts from a high base. According to regional figures, 2024 closed with about 7 million arrivals and more than 22.4 million overnight stays. In 2025 the total held steady at more than 22.5 million, but its composition changed: international nights rose 5.5% to almost 13 million, while Italian nights fell 6.3% to under 10 million.
-The first eight months tell the same story of steady growth. From January to August 2025, overnight stays rose 11.9% and arrivals 1.3%. From January to August 2026, they rose a further 5.8% and 3.6%.
-Compounding the two years, January-August 2026 is about +18.4% in overnight stays and +4.9% in arrivals compared with 2024. Nights have grown almost four times faster than arrivals: travellers are staying longer.
-January-August 2026 compared with 2024: Overnight stays +18.4%, Arrivals +4.9%.
+Sicily entered 2026 from an already high base. In 2024 the regional series, including short-term rentals, recorded more than 22.4 million overnight stays. International travellers accounted for 12.05 million of them.
+Growth continued through 2025 and accelerated again in 2026. From January to August 2026, arrivals rose 3.6% and overnight stays 5.8% compared with the same period of 2025.
+On a comparable January-August basis, the compounded two-year change is about +18.4% in overnight stays and +4.6% in arrivals. Nights have grown around four times faster than arrivals: travellers are staying longer.
+January-August 2026 compared with 2024: Overnight stays +18.4%, Arrivals +4.6%.
 What it means for luxury travel. More nights per trip mean more room nights and more spending on restaurants, private transfers, guides, experiences, wine, shopping and additional destinations on the island.
 
 ## International demand is driving the market
-- ~13M: international overnight stays in 2025
-- +5.5%: international nights, 2025 compared with 2024
-- -6.3%: Italian nights, 2025 compared with 2024
-International travellers have become the main engine of Sicily's growth. In 2025 they generated almost 13 million nights, more than half of the total, while domestic demand softened.
-The trend continued in 2026. In the first half of the year, arrivals from the United States and Canada rose 8.5% and from France 4.2%. A larger international base supports five-star hotels, luxury resorts, villas, DMC services, private transfers and a broader shoulder season.
+- 12.05M: international overnight stays in 2024
+- 54%+: international share of nights entering 2026
+International travel has been one of the strongest drivers of Sicily's growth. Foreign travellers already generated 12.05 million nights in 2024, and by 2025 international demand had strengthened further while domestic demand softened.
+In the first half of 2026, North American arrivals rose 8.5% and French demand 4.2%. A larger international base supports five-star hotels, luxury resorts, villas, DMC services, private transfers and a broader shoulder season.
 
 ## North America: a luxury growth market
-- +8.5%: US and Canadian arrivals, first half of 2026
-- 262,355: American nights in Taormina in 2024
-- 22%: US share of international nights in Taormina
-According to ISTAT, American and French travellers are the main foreign markets in Sicily. In Taormina, Americans spent 262,355 nights in 2024: 19% of all nights in the town and 22% of international nights.
+- 379,829: American arrivals in 2024
+- ~1 million: American overnight stays in 2024
+- +8.5%: US and Canadian arrivals, first half of 2026 compared with 2025
+The United States was Sicily's second-largest foreign market in 2024. In Taormina, American travellers generated about 262,000 hotel nights: 19% of all hotel nights and 22% of international hotel nights.
+- 22%: US share of international hotel nights in Taormina
+- ~€1,500: average daily rate at Taormina's leading five-star hotels
 North American growth directly supports the products where Sicily's luxury market is expanding:
 - five-star hotels and resorts, suites and villas;
 - private transfers and private guides;
@@ -1169,86 +1173,99 @@ The largest increase by nationality in 2025, in absolute terms, came from the Un
 For luxury travel, Palermo is both a high-end city destination and the gateway to Western Sicily: Cefalù, Monreale, Scopello, Trapani, Marsala and the Egadi Islands.
 
 ## Luxury hotel rates are outgrowing the market
-- ~€1,500: average daily rate at Taormina's leading luxury hotels in 2025
-- +80%: real growth of that rate compared with 2018
-- ~76%: hotel occupancy in Taormina, April-October 2025
-Taormina is the benchmark for luxury hospitality in Sicily. According to HVS, the town's average hotel rate exceeded €1,200 in 2025, and its leading luxury properties reached about €1,500, more than 80% above 2018 in real terms. Seasonal occupancy from April to October was about 76%, across roughly 1.4 million bed-nights.
-Growth at the top of the market is driven mainly by rate rather than by volume. Sicily is growing in value per occupied room, not only in visitor numbers, and new luxury openings bring global sales networks, international PR and access to high-value distribution.
+- +43%: luxury hotel average daily rate in Sicily compared with 2019
+- >80%: real growth in Taormina's average daily rate since 2018
+- ~76%: hotel occupancy in Taormina, April-October
+Taormina's leading five-star hotels achieved average daily rates of about €1,500 in 2025. The increase has been driven mainly by rate rather than by a comparable rise in occupancy. At the luxury end, Sicily is growing through value per occupied room, not only through visitor numbers.
+### Investment and new luxury inventory
+- €1 billion: real-estate investment in five years
+- 46%: share directed to hotels
+- 67%: share of capital from abroad
+More than 2,500 premium hotel rooms are in the pipeline through 2030. New luxury openings bring global sales networks, international PR and access to high-value distribution.
 
 ## Southwestern Sicily
-- 1.73M: overnight stays in the Province of Agrigento in 2025
-- ~46%: international share of nights
+- 1.75M: overnight stays in the Province of Agrigento in 2025
+- 50.3%: international share of nights
 - +15.9%: American nights, 2025 compared with 2024
-American overnight stays in the province reached 103,227 in 2025, with an average stay of 3.8 nights. The area brings together Verdura, Sciacca, Agrigento, Selinunte and Menfi, in a market where international travellers already generate almost half of all nights.
+American overnight stays in the province reached 103,227 in 2025, with an average stay of 3.8 nights. The area brings together Verdura, Sciacca, Agrigento, Selinunte and Menfi, in a market where international travellers already generate half of all nights.
 The luxury opportunity is measurable: established resorts, major archaeology, wine and coastline can support longer stays and higher-value itineraries, while the area is still less internationally developed than Taormina or Palermo.
 
 ## Culture is generating scale
 - 1M+: visitors to the Valley of the Temples, first half of 2026
-Visitors to archaeological parks, 2026 compared with 2025: Caltagirone archaeological park +65%, Adrano +19%, Catania and Valle dell'Aci +17%, Villa Romana del Casale +11%.
+Visitors to archaeological parks, first half of 2026: Caltagirone archaeological park +65%, Adrano +19%, Catania and Valle dell'Aci +17%, Villa Romana del Casale +11%.
 Archaeology, architecture and historic cities give travellers reasons to visit outside the summer, and provide the content for private guiding, specialist access and multi-stop itineraries. For the luxury segment, cultural assets can turn a resort stay into a longer journey across Sicily.
 
 ## A longer season
-- +7%: visitors, January-March 2026 compared with 2025
-- 65.6%: saturation of online accommodation, June-August 2026
-- +12%: experience bookings, 2026 estimate
-The season is getting longer. Visitors rose about 7% from January to March 2026, while summer demand remained high: Sicily ranked among the top Italian regions for online accommodation saturation in June-August 2026. The opportunity is to grow April to June and September to November through culture, wine, gastronomy, archaeology and golf.
-Longer stays and stronger demand for experiences, estimated at +12% in 2026, increase the value of private guides, restaurants, wineries, boats, drivers, artisans and cultural access. Growth in nights and experiences matters more economically than growth in arrivals alone.
+- 65.6%: accommodation occupancy, summer 2026
+- +12%: experience bookings, 2026 compared with 2025
+January and March 2026 each grew by about 7%, while overnight stays from January to August rose 5.8%. Summer demand remained high. The opportunity is to grow April to June and September to November through culture, wine, gastronomy, archaeology and golf.
+Longer stays and stronger demand for experiences increase the value of private guides, restaurants, wineries, boats, drivers, artisans and cultural access. Growth in nights and experiences matters more economically than growth in arrivals alone.
 
 ## East and West: two complementary growth stories
 Eastern and Western Sicily are not competing destinations. Their different levels of international recognition, hotel infrastructure and visitor distribution can help sell richer, longer itineraries across the whole island.
 ### Eastern Sicily: the established luxury benchmark
 From Taormina and Mount Etna to Catania, Siracusa and the Val di Noto, Eastern Sicily combines international brand recognition, iconic cultural sites and a mature luxury hospitality offer.
-- ~1.4M: bed-nights in Taormina in 2025
-- ~76%: hotel occupancy in Taormina, April-October
-- 22%: US share of international nights in Taormina (2024)
-Taormina remains Sicily's most internationally established luxury destination. Heritage hotels, international hospitality brands, dramatic scenery and cultural programming have supported premium pricing, with leading luxury hotels averaging about €1,500 a night. These figures describe the top of the Taormina market, not an island-wide average.
+- 3.99M: overnight stays in the Province of Messina in 2024
+- +7.2%: Province of Messina, nights compared with 2023
+- ~22%: US share of international hotel nights in Taormina
+Taormina remains Sicily's most internationally established luxury destination. Heritage hotels, international hospitality brands, dramatic scenery and cultural programming have supported premium pricing, with leading five-star average daily rates approaching €1,500. These figures describe the top of the Taormina market, not an island-wide average.
 - Catania and Etna Airport access, the volcanic landscape, wineries and outdoor experiences make a gateway for premium itineraries and shoulder-season demand.
 - Siracusa and Ortigia Archaeology, architecture, waterfront hospitality and private cultural experiences appeal strongly to experiential luxury travellers.
 - Val di Noto Noto, Modica and Ragusa bring UNESCO-listed Baroque heritage, design-led stays and a distinctive food identity.
+What comes next: Eastern Sicily's opportunity is to build on established demand while spreading tourism more widely across the region. Better connections between the major gateways, resorts and cultural destinations can encourage longer itineraries and reduce concentration in peak-season hotspots.
 ### Western Sicily: a growing luxury destination
 Western and Southwestern Sicily bring together Agrigento, Sciacca, Menfi, Selinunte, Marsala, Trapani and Palermo. The area offers a complementary luxury proposition built on coastal resorts, archaeology, wineries and food, connected in an itinerary rather than centred on one resort town.
-- 2.54M: overnight stays in the Province of Trapani in 2024
+- 1.75M: overnight stays in the Province of Agrigento in 2025
+- 50.3%: international share, Province of Agrigento, 2025
 - +26.74%: nights in the Province of Agrigento, 2025 compared with 2019*
-- 514,897: overnight stays in Sciacca in 2025, first in its province*
-The Agrigento-Sciacca corridor links the Valley of the Temples with resort hospitality and the surrounding coastline, and American nights in the province rose 15.9% in 2025.
+Sciacca recorded 514,897 overnight stays in 2025. The Agrigento-Sciacca corridor links the Valley of the Temples with resort hospitality and the surrounding coastline, and US nights in the province rose 15.9% in 2025.
 Rocco Forte's Verdura Resort is an internationally recognised luxury anchor. Its golf, wellness, food and coastal setting support premium stays, and its location introduces guests to Agrigento, Selinunte and Menfi. The opportunity is to connect international resort demand with local guides, wineries, restaurants, transport and cultural experiences.
 - Selinunte and Menfi Archaeology, vineyards and coastal experiences can extend resort-based stays.
 - Marsala and Trapani Wine heritage, historic towns, the salt pans and access to the Egadi Islands support varied itineraries.
 - Palermo A major international city gateway, cultural destination and complementary stop on a western itinerary.
+The development priority: the opportunity is to turn strong cultural interest and growing international demand into longer stays, higher local spending and more year-round employment. Destination access, consistent service quality and high-end experiences will be essential.
+### Comparable provincial snapshot, 2024
+Messina (East) and Trapani (West), 2024:
+- Indicator: Overnight stays; Messina / East: 3,991,919; Trapani / West: 2,544,726
+- Indicator: Growth compared with 2023; Messina / East: +7.2%; Trapani / West: +11.8%
+- Indicator: Reading; Messina / East: Larger established market; Trapani / West: Faster growth in 2024
+A note on the comparison. These are province-level figures for a single year: they do not show that the whole western region is growing faster than the whole eastern region. Agrigento's 2025 figures are not directly comparable with these 2024 totals, and the 2019-2025 Agrigento growth excludes rental accommodation.
+### Distinct commercial advantages
+- Eastern Sicily Globally recognised luxury gateways, high hotel pricing power, established international distribution, iconic cultural attractions and sophisticated resort infrastructure.
+- Western Sicily Established luxury anchors alongside emerging circuits, strong archaeological and coastal assets, meaningful international demand and opportunities to build higher-value multi-stop itineraries.
 ### A strategic role for TRUE Sicily 2026
 The commercial goal is not simply to sell a second hotel, but more nights in Sicily. An itinerary linking Taormina, Etna and Siracusa with Agrigento, Sciacca and the western coast introduces new experiences, increases spending in the destination and gives returning clients a reason to explore further. Hosting TRUE at Verdura Resort showcases the southwest while keeping the whole island in view.
 
 ## The numbers, and what they mean for the trade
 The numbers behind Sicily's growth:
 - Indicator: Overnight stays; Period: Jan-Aug 2026 vs 2024*; Change: +18.4%
-- Indicator: Arrivals; Period: Jan-Aug 2026 vs 2024*; Change: +4.9%
-- Indicator: International nights; Period: 2025 vs 2024; Change: +5.5%
-- Indicator: US and Canadian arrivals; Period: H1 2026 vs H1 2025; Change: +8.5%
+- Indicator: Arrivals; Period: Jan-Aug 2026 vs 2024*; Change: +4.6%
+- Indicator: North American arrivals; Period: H1 2026 vs H1 2025; Change: +8.5%
 - Indicator: Palermo, international nights; Period: 2025 vs 2024; Change: +13.4%
 - Indicator: Agrigento, American nights; Period: 2025 vs 2024; Change: +15.9%
-- Indicator: Taormina, leading luxury hotel rates; Period: 2025 vs 2018, real terms; Change: +80%
-- Indicator: Experience bookings; Period: 2026, estimate; Change: +12%
+- Indicator: Luxury hotel average daily rate; Period: Latest vs 2019; Change: +43%
+- Indicator: Experience bookings; Period: 2026 vs 2025; Change: +12%
 ### What it means for advisors and hoteliers
 - Sell more nights, not only more arrivals. Nights are growing much faster than arrivals, and Sicily has the product for longer stays across several destinations.
-- Build for international demand. Foreign travellers now generate more than half of all nights, and are increasingly important outside the summer peak.
-- Treat North America as a core luxury market. Americans are among Sicily's main foreign markets, and US and Canadian arrivals grew 8.5% in the first half of 2026.
-- Follow the rate growth. Taormina's leading hotels have grown their rates by more than 80% in real terms since 2018, a measure of the spending power at the top of the market.
-- Watch Southwestern Sicily. Almost half of Agrigento's nights are international, and American nights are growing at double-digit rates.
+- Build for international demand. Foreign travellers are the majority, and increasingly important outside the summer peak.
+- Treat North America as a core luxury market. Almost one million American nights in 2024, and North American demand is still growing.
+- Follow the rate growth. Luxury rates are 43% above 2019, and Taormina shows the spending power at the top of the market.
+- Watch Southwestern Sicily. Half of Agrigento's nights are international, and American nights are growing at double-digit rates.
 - Sell the shoulder season. Culture, wine, food and golf give Sicily the product to grow beyond July and August.
 
 ## Frequently asked questions
 Q: Is Sicily a luxury travel destination?
-A: Yes. Taormina's leading luxury hotels average about €1,500 a night, more than 80% above 2018 in real terms. Palermo, Siracusa, the Val di Noto and the southwest around Verdura Resort complete an offer that combines luxury hotels and resorts with world-class archaeology, wine and food.
+A: Yes. Taormina's leading five-star hotels reach average daily rates of about €1,500, luxury hotel rates across Sicily are 43% above 2019, and more than 2,500 premium hotel rooms are in the pipeline to 2030. Palermo, Siracusa, the Val di Noto and the southwest around Verdura Resort complete the offer.
 Q: Is tourism in Sicily growing?
-A: Yes. From January to August 2026, overnight stays rose 5.8% and arrivals 3.6% compared with 2025, about +18.4% in nights compared with 2024. International travellers now generate more than half of all nights.
+A: Yes. From January to August 2026, overnight stays rose 5.8% and arrivals 3.6% compared with 2025, about +18.4% in nights compared with 2024. International travellers account for more than half of all nights.
 Q: How important are American travellers to Sicily?
-A: Very. Americans are among Sicily's main foreign markets, and US and Canadian arrivals rose 8.5% in the first half of 2026. In Palermo, the United States recorded the largest increase in nights of any nationality in 2025.
+A: Very. The United States was Sicily's second-largest foreign market in 2024, with about 380,000 arrivals and almost one million nights. North American arrivals rose a further 8.5% in the first half of 2026.
 Q: When is the best time for luxury travel to Sicily?
-A: April to June and September to November combine pleasant weather with culture, wine, food, archaeology and golf, and fewer crowds than July and August. Visitors rose about 7% from January to March 2026, a sign that the season is getting longer.
+A: April to June and September to November combine pleasant weather with culture, wine, food, archaeology and golf, and fewer crowds than July and August. January and March 2026 each grew by about 7%, a sign that the season is getting longer.
 Q: What is TRUE?
 A: TRUE is Italy's leading luxury travel network and B2B event platform. It connects over 5,000 luxury travel advisors worldwide with more than 300 hotels, resorts, villas and DMCs in Italy through immersive regional events that combine one-to-one meetings with fam trips.
 Q: What is TRUE Sicily?
-A: TRUE Sicily is the Sicilian edition of TRUE. It brings selected international travel advisors to meet Sicily's luxury hotels, resorts, villas and DMCs through B2B meetings, fam trips and immersive experiences. The 2026 edition took place at Verdura Resort from November 10 to 13, 2026.
+A: TRUE Sicily is the Sicilian edition of TRUE. It brings selected international travel advisors to meet Sicily's luxury hotels, resorts, villas and DMCs through B2B meetings, fam trips and immersive experiences. The 2026 edition took place at Verdura Resort in November 2026.
 Q: What are the best luxury travel networking events in Italy?
 A: TRUE runs regional luxury travel trade events in Puglia, Sicily, the Dolomites and Sardinia, with Campania and Tuscany from 2027. Each edition brings selected international travel advisors together with the region's luxury hotels, resorts, villas and DMCs.
 Q: How is TRUE different from a traditional travel trade show?
@@ -1268,19 +1285,18 @@ Each TRUE event is dedicated to one Italian region and features only hotels, res
 - TRUEtalk: At every edition, a panel of hoteliers, buyers and journalists discusses the destination and the future of luxury travel.
 
 ## Sources and notes on method
-- Regione Siciliana, Assessorato al Turismo and Osservatorio Turistico Regionale: 2024, 2025 and 2026 tourism data
-- Prometeia for UniCredit: Sicily tourism 2025
-- ISTAT: tourism flows 2024
-- Comune di Palermo and Comune di Taormina: city tourism data
-- HVS: Taormina Market Pulse 2026
-- Assoimpresa Italia: tourism season 2026
-- Italian Ministry of Tourism: summer 2026 report
-- Parchi archeologici della Regione Siciliana: visitors, first half of 2026
-- Camera di Commercio di Agrigento: provincial tourism data 2025
+- Regione Siciliana - Osservatorio Turistico: tourism movements, source markets and regional tourism reports
+- Regione Siciliana - Dipartimento Turismo: 2025 and 2026 tourism performance and seasonality releases
+- HVS - Taormina Market Pulse 2026: luxury average daily rate, occupancy and long-term rate performance
+- CBRE Italy - Sicilia on Stage: real-estate investment, foreign capital and premium hotel pipeline
+- Ministero del Turismo: summer 2026 accommodation occupancy
+- Comune di Palermo / local tourism statistics: city overnight stays and international share
+- Regione Siciliana archaeological parks / Valley of the Temples: cultural-site visitation
+- Assovini Sicilia / Regione Siciliana: vineyard area and wine-tourism offer
+- Assoimpresa Italia: 2026 North American and experiential-demand indicators
 - 2026 data is partial: 2026 figures cover part of the year and should not be read as full-year results.
-- Compounded two-year changes: The +18.4% in overnight stays and +4.9% in arrivals for January-August 2026 compared with 2024 are obtained by compounding the January-August growth of 2025 (+11.9% and +1.3%) and 2026 (+5.8% and +3.6%).
-- Different series: Regional figures include short-term rentals; ISTAT's accommodation-only series gives lower totals (about 17.3 million nights in Sicily in 2024), and the Camera di Commercio di Agrigento series also excludes short-term rentals. Figures from different series are not combined.
-- Summer saturation: The 65.6% for June-August 2026 is the saturation of accommodation offered online, as measured by the Ministry of Tourism, not total occupancy.
+- Compounded two-year changes: The +18.4% in overnight stays and +4.6% in arrivals for January-August 2026 compared with 2024 are calculated by compounding comparable consecutive growth rates.
+- Different perimeters: Definitive and provisional regional series, and provincial or city statistics, may use different accommodation perimeters, so they are not treated as interchangeable. Comparisons between East and West use only matching periods and are not a unified time series.
 URL: https://dev.truevent.eu/reports/sicily/2026
 PDF: https://dev.truevent.eu/reports/sicily/2026/TRUE-Sicily-Report-2026.pdf
 
