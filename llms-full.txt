@@ -1,6 +1,6 @@
 # TRUE - full text
 
-Source: https://dev.truevent.eu. Generated 2026-10-23.
+Source: https://dev.truevent.eu. Generated 2026-10-26.
 
 ---
 
@@ -1129,9 +1129,9 @@ Sicily entered 2026 from an already high base, and its growth is now driven by i
 - +5.8%: overnight stays, January-August 2026 compared with 2025
 - +8.5%: North American arrivals, first half of 2026 compared with 2025
 - 380K: US arrivals in 2024
-- €1,500: leading Taormina five-star average daily rate
+- ~€1,500: leading Taormina five-star average daily rate
 - +43%: luxury hotel average daily rate compared with 2019
-- €1BN: real-estate investment in five years
+- €1bn: real-estate investment in five years
 - 67%: share of investment capital from abroad
 - 2,500+: premium hotel rooms in the pipeline to 2030
 - ~46%: international share, Province of Agrigento
@@ -1195,8 +1195,8 @@ More than 2,500 premium hotel rooms are in the pipeline through 2030. New luxury
 ## Southwestern Sicily
 - 1.73M: overnight stays in the Province of Agrigento in 2025
 - ~46%: international share of nights
-- +15.9%: American nights, 2025 compared with 2024
-American overnight stays in the province reached 103,227 in 2025, with an average stay of 3.8 nights. The area brings together Verdura, Sciacca, Agrigento, Selinunte and Menfi, in a market where international travellers already generate half of all nights.
+- +15.9%: US nights, 2025 compared with 2024
+US overnight stays in the province reached 103,227 in 2025, with an average stay of 3.8 nights. The area brings together Verdura, Sciacca, Agrigento, Selinunte and Menfi, in a market where international travellers already generate half of all nights.
 The luxury opportunity is measurable: established resorts, major archaeology, wine and coastline can support longer stays and higher-value itineraries, while the area is still less internationally developed than Taormina or Palermo.
 
 ## Culture is generating scale
@@ -1216,8 +1216,8 @@ Eastern and Western Sicily are not competing destinations. Their different level
 From Taormina and Mount Etna to Catania, Siracusa and the Val di Noto, Eastern Sicily combines international brand recognition, iconic cultural sites and a mature luxury hospitality offer.
 - 3.99M: overnight stays in the Province of Messina in 2024
 - +7.2%: Province of Messina, nights compared with 2023
-- ~22%: US share of international hotel nights in Taormina
-Taormina remains Sicily's most internationally established luxury destination. Heritage hotels, international hospitality brands, dramatic scenery and cultural programming have supported premium pricing, with leading five-star average daily rates approaching €1,500. These figures describe the top of the Taormina market, not an island-wide average.
+- 22%: US share of international hotel nights in Taormina
+Taormina remains Sicily's most internationally established luxury destination. Heritage hotels, international hospitality brands, dramatic scenery and cultural programming have supported premium pricing, with leading five-star average daily rates about €1,500. These figures describe the top of the Taormina market, not an island-wide average.
 - Catania and Etna Airport access, the volcanic landscape, wineries and outdoor experiences make a gateway for premium itineraries and shoulder-season demand.
 - Siracusa and Ortigia Archaeology, architecture, waterfront hospitality and private cultural experiences appeal strongly to experiential luxury travellers.
 - Val di Noto Noto, Modica and Ragusa bring UNESCO-listed Baroque heritage, design-led stays and a distinctive food identity.
@@ -1226,7 +1226,7 @@ What comes next: Eastern Sicily's opportunity is to build on established demand 
 Western and Southwestern Sicily bring together Agrigento, Sciacca, Menfi, Selinunte, Marsala, Trapani and Palermo. The area offers a complementary luxury proposition built on coastal resorts, archaeology, wineries and food, connected in an itinerary rather than centred on one resort town.
 - 1.73M: overnight stays in the Province of Agrigento in 2025
 - ~46%: international share, Province of Agrigento, 2025
-- +26.74%: nights in the Province of Agrigento, 2025 compared with 2019*
+- +26.7%: nights in the Province of Agrigento, 2025 compared with 2019*
 Sciacca recorded 514,897 overnight stays in 2025. The Agrigento-Sciacca corridor links the Valley of the Temples with resort hospitality and the surrounding coastline, and US nights in the province rose 15.9% in 2025.
 Rocco Forte's Verdura Resort is an internationally recognised luxury anchor. Its golf, wellness, food and coastal setting support premium stays, and its location introduces guests to Agrigento, Selinunte and Menfi. The opportunity is to connect international resort demand with local guides, wineries, restaurants, transport and cultural experiences.
 - Selinunte and Menfi Archaeology, vineyards and coastal experiences can extend resort-based stays.
@@ -1247,11 +1247,11 @@ The commercial goal is not simply to sell a second hotel, but more nights in Sic
 
 ## The numbers, and what they mean for the trade
 The numbers behind Sicily's growth:
-- Indicator: Overnight stays; Period: Jan-Aug 2026 vs 2024*; Change: +18.4%
-- Indicator: Arrivals; Period: Jan-Aug 2026 vs 2024*; Change: +4.9%
+- Indicator: Overnight stays; Period: Jan-Aug 2026 vs Jan-Aug 2024*; Change: +18.4%
+- Indicator: Arrivals; Period: Jan-Aug 2026 vs Jan-Aug 2024*; Change: +4.9%
 - Indicator: North American arrivals; Period: H1 2026 vs H1 2025; Change: +8.5%
 - Indicator: Palermo, international nights; Period: 2025 vs 2024; Change: +13.4%
-- Indicator: Agrigento, American nights; Period: 2025 vs 2024; Change: +15.9%
+- Indicator: Agrigento, US nights; Period: 2025 vs 2024; Change: +15.9%
 - Indicator: Luxury hotel average daily rate; Period: Latest vs 2019; Change: +43%
 - Indicator: Experience bookings; Period: 2026 vs 2025; Change: +12%
 ### What it means for advisors and hoteliers
@@ -1259,7 +1259,7 @@ The numbers behind Sicily's growth:
 - Build for international demand. Foreign travellers are the majority, and increasingly important outside the summer peak.
 - Treat North America as a core luxury market. Almost one million American nights in 2024, and North American demand is still growing.
 - Follow the rate growth. Luxury rates are 43% above 2019, and Taormina shows the spending power at the top of the market.
-- Watch Southwestern Sicily. About half of Agrigento's nights are international, and American nights are growing at double-digit rates.
+- Watch Southwestern Sicily. About half of Agrigento's nights are international, and US nights are growing at double-digit rates.
 - Sell the shoulder season. Culture, wine, food and golf give Sicily the product to grow beyond July and August.
 
 ## Frequently asked questions
@@ -1305,6 +1305,7 @@ Each TRUE event is dedicated to one Italian region and features only hotels, res
 - Ministero degli Affari Esteri e della Cooperazione Internazionale (MAECI) - Turismo delle radici: roots travellers and economic flow 2024
 - Gabrieli, Giumelli, Licata, Sommario - Scoprirsi italiani. I viaggi delle radici in Italia (Rubbettino 2022, with the support of MAECI): regions of origin and travel motivations
 - Calandra Italian American Institute - Italian Americans: Who We Are (2024), on US Census Bureau American Community Survey 2022 data
+- Osservatorio Turistico Regione Siciliana via Distretto Turistico Valle dei Templi - Province of Agrigento 2025: overnight stays, international share and US market (La Sicilia, February 2026)
 - 2026 data is partial: 2026 figures cover part of the year and should not be read as full-year results.
 - Compounded two-year changes: The +18.4% in overnight stays and +4.9% in arrivals for January-August 2026 compared with 2024 are calculated by compounding comparable consecutive growth rates.
 - Different perimeters: Definitive and provisional regional series, and provincial or city statistics, may use different accommodation perimeters, so they are not treated as interchangeable. Comparisons between East and West use only matching periods and are not a unified time series.
