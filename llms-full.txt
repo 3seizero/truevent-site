@@ -1,6 +1,6 @@
 # TRUE - full text
 
-Source: https://dev.truevent.eu. Generated 2026-11-01.
+Source: https://dev.truevent.eu. Generated 2026-11-05.
 
 ---
 
@@ -417,79 +417,6 @@ Indigenus ↗
 Path walks, talks & beyond ↗
 Southern Visions Travel ↗
 
-## TRUE SICILY
-
-Hotels & Resorts
-Almar Giardino di Costanza Resort & Spa ↗
-Baglio Occhipinti ↗
-Baglio Oneto Dei Principi di San Lorenzo - Luxury Wine Resort ↗
-Capofaro Resort ↗
-Country House Villadorata ↗
-Dimora Cottanera ↗
-Donna Carmela Resort & Lodge ↗
-Doric Eco Boutique Resort & Spa- Sicily ↗
-Fontes Episcopi ↗
-Grand Hotel Timeo, a Belmond Hotel ↗
-Hotel Metropole Taormina ↗
-Hotel Signum ↗
-Hotel Villa Athena ↗
-Il San Corrado di Noto ↗
-La Plage Resort, Taormina ↗
-Lindbergh Hotels ↗
-Mangia&#x27;s Hotel & Resorts ↗
-Minareto ↗
-Monaci delle Terre Nere ↗
-Ortea Palace Hotel, Sicily - Autograph Collection ↗
-Palazzo Arone dei Baroni Di Valentino ↗
-Palazzo Vecchio Taormina ↗
-Planeta Estate Hospitality ↗
-QRA Hospitality Collection ↗
-San Domenico Palace, Taormina, a Four Seasons Hotel ↗
-Sevenrooms Villadorata ↗
-Sikelia Luxury Retreat ↗
-Therasia Resort Sea & Spa ↗
-Verdura Resort, a Rocco Forte hotel ↗
-Villa Igiea, a Rocco Forte Hotel ↗
-Villa Sant’Andrea, a Belmond Hotel ↗
-VRetreats ↗
-Zash Country Boutique Hotel & Spa ↗
-
-Villa Experience
-Rocco Forte Private Villas, Verdura Resort ↗
-
-DMCs
-Essence of Sicily ↗
-
-## TRUE SARDINIA
-
-Hotels & Resorts
-7Pines Resort Sardinia ↗
-Abi D&#x27;Oru Beach Hotel & Spa ↗
-Baglioni Hotels & Resorts, Baglioni Resort Sardinia ↗
-Chia Laguna Resort ↗
-CPH Pevero Hotel ↗
-Falkensteiner Resort Capo Boi ↗
-Felix Hotels ↗
-Forte Village ↗
-Gabbiano Azzurro Hotel & Suites ↗
-Hotel Capo D&#x27;Orso Thalasso & SPA ↗
-Hotel Pitrizza ↗
-Hotel Sporting ↗
-La Scogliera Group ↗
-La Tiara Di Cervo ↗
-Lanthia Resort ↗
-Palazzo Doglio ↗
-Palazzo Tirso Cagliari MGallery ↗
-Petra Segreta ↗
-Relais Villa Carola ↗
-Romazzino, a Belmond Hotel, Costa Smeralda ↗
-Su Gologone Experience Hotel ↗
-Veridia Resort ↗
-W Sardinia – Poltu Quatu ↗
-
-DMCs
-FA Travel ↗
-
 ## TRUE DOLOMITES
 
 Hotels & Resorts
@@ -536,6 +463,79 @@ DMCs
 Dolomite Mountains ↗
 Dream Beyond ↗
 
+## TRUE SARDINIA
+
+Hotels & Resorts
+7Pines Resort Sardinia ↗
+Abi d&#x27;Oru Beach Hotel & Spa ↗
+Baglioni Hotels & Resorts ↗
+Chia Laguna Nature Resort ↗
+Costa Smeralda, a Rocco Forte Hotel ↗
+CPH Pevero Hotel ↗
+Due Lune Puntaldia Resort & Golf ↗
+Falkensteiner Hotel Capo Boi ↗
+Forte Village ↗
+Gabbiano Azzurro Hotel & Suites ↗
+Hotel Capo d&#x27;Orso Thalasso & SPA ↗
+Hotel Pitrizza ↗
+Hotel Sporting ↗
+L&#x27;Ea Bianca Luxury Resort ↗
+La Tiara di Cervo ↗
+Lanthia Resort Ogliastra ↗
+Mangia&#x27;s Hotels & Resorts ↗
+Palazzo Doglio ↗
+Palazzo Tirso Cagliari MGallery ↗
+Petra Segreta Resort & Spa ↗
+Relais Villa Carola ↗
+Romazzino, A Belmond Hotel, Costa Smeralda ↗
+Su Gologone Experience Hotel ↗
+Sulia House Porto Rotondo, Curio Collection by Hilton ↗
+
+DMCs
+FA Concierge - Sardinia ↗
+
+Real Estate
+Engel & Völkers Costa Smeralda ↗
+
+Services
+ARCA - Exclusive Sailing Experience ↗
+
+## TRUE SICILY
+
+Hotels & Resorts
+Baglio Oneto dei Principi di San Lorenzo - Luxury Wine Resort ↗
+Dimora Cottanera ↗
+Donna Carmela Resort & Lodges ↗
+Falkensteiner Family Resort Sicily ↗
+Fontes Episcopi - Bioresort ↗
+Grand Hotel San Pietro Taormina ↗
+Grand Hotel Timeo, a Belmond Hotel ↗
+Hotel Metropole Taormina ↗
+La Plage Resort ↗
+Mangia&#x27;s Hotels & Resorts ↗
+Minareto ↗
+Monaci delle Terre Nere, Etna, Sicily ↗
+NH Collection Taormina ↗
+Ortea Palace Hotel, Sicily - Autograph Collection ↗
+Palazzo Castelluccio, a Rocco Forte Hotel ↗
+Palazzo Del Grado ↗
+Palazzo Vecchio Taormina ↗
+Planeta Estate Hospitality ↗
+QRA Hospitality Collection ↗
+San Domenico Palace, Taormina, A Four Seasons Hotel ↗
+Tasca d&#x27;Almerita ↗
+Verdura Resort, a Rocco Forte hotel ↗
+Villa Athena Resort ↗
+Villa Igiea, a Rocco Forte Hotel ↗
+Villa Sant’Andrea, a Belmond Hotel ↗
+VRetreats ↗
+
+Villa Experience
+Rocco Forte Private Villas, Verdura Resort ↗
+
+DMCs
+Essence of Sicily ↗
+
 ## REST OF ITALY
 
 Hotels & Resorts
@@ -565,6 +565,7 @@ Orient Express Trains and Hotels Italy ↗
 
 Collection
 Insieme by Erin ↗
+Manfredi Fine Hotels Collection ↗
 
 ---
 
